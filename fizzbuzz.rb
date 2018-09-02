@@ -9,5 +9,5 @@ def fizzbuzz(num)
   elsif
    string =  null
   end
-  return
+  return string
 end
