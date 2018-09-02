@@ -6,7 +6,7 @@ def fizzbuzz(num)
     string =  "Fizz"
   elsif num %5 == 0
     string =  "Buzz"
-  elsif
+  else
    string =  null
   end
   return string
