@@ -7,7 +7,7 @@ def fizzbuzz(num)
   elsif num %5 == 0
     string =  "Buzz"
   else
-   string =  null
+   string =  NIL
   end
   return string
 end
